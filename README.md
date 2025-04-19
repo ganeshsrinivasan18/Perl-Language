@@ -14,6 +14,7 @@ This repo is created with the goal of:
 
 - Perl Syntax and Structure
 - Variables: Scalars, Arrays, Hashes
+- String Operations: Concatenation, Multiplication, Increment, Repetition
 
 ## 🚀 How to Use
 
