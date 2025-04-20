@@ -17,6 +17,8 @@ This repo is created with the goal of:
 - String Operations: Concatenation, Multiplication, Increment, Repetition
 - List Operations: Declaring, Accessing, Slicing, Range, Sorting, Merging, Splitting
 
+..... To be Continued.....
+
 ## 🚀 How to Use
 
 If you're learning Perl or just looking for code snippets and explanations, feel free to explore each folder. Each section includes:
