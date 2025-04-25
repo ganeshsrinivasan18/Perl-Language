@@ -12,10 +12,11 @@ This repo is created with the goal of:
 
 ## 🛠 Topics Covered (So far)
 
-- Perl Syntax and Structure
-- Variables: Scalars, Arrays, Hashes
-- String Operations: Concatenation, Multiplication, Increment, Repetition
-- List Operations: Declaring, Accessing, Slicing, Range, Sorting, Merging, Splitting
+- Perl Syntax and Structure.
+- Variables: Scalars, Arrays, Hashes.
+- String Operations: Concatenation, Multiplication, Increment, Repetition.
+- List Operations: Declaring, Accessing, Slicing, Range, Sorting, Merging, Splitting.
+- Loops: While Loop, For Loop, Until Loop, Foreach Loop.
 
 ..... To be Continued.....
 
