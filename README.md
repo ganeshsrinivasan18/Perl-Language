@@ -1,5 +1,8 @@
 # 📘 Perl Language
 
+![GitHub top language](https://img.shields.io/github/languages/top/ganeshsrinivasan18/Perl-Language)
+![GitHub license](https://img.shields.io/github/license/ganeshsrinivasan18/Perl-Language)
+
 Welcome to the **Perl Language** repository! This is a personal space where I document my journey of learning the Perl programming language. It includes well-structured code examples, hands-on practice exercises, and easy-to-follow notes to help solidify key concepts.
 
 ## 🔍 About This Repository
